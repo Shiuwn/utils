@@ -1,8 +1,12 @@
 {
   "name": "@shiu/utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "time task",
   "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiuwn/utils"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
